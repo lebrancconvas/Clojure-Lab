@@ -1,0 +1,1 @@
+(println (format "The Result is %d" (apply + (range 1 101))))
